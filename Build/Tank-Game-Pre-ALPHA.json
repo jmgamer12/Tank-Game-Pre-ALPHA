@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Tank-Game-Pre-ALPHA.data.unityweb",
+"asmCodeUrl": "Tank-Game-Pre-ALPHA.asm.code.unityweb",
+"asmMemoryUrl": "Tank-Game-Pre-ALPHA.asm.memory.unityweb",
+"asmFrameworkUrl": "Tank-Game-Pre-ALPHA.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
